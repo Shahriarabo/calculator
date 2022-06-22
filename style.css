@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    max-width: 100%;
+}
+a{
+    text-decoration: none;
+}
+.container {
+	width: 321px;
+    background:rgb(36,37,48);
+}
+.icon-img-one img {
+	margin-left: 29px;
+}
+.text-light.fs-4.text-end.mt-2 {
+	margin-right: 24px;
+}
+.fs-4.text-end.mt-5 {
+	margin-right: 22px;
+}
